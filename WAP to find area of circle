@@ -9,7 +9,7 @@ int main() {
 
     area = PI * radius * radius;
 
-    printf("Area of circle = %.2f\n", area);
+    printf("Area of circle = %.2f\n", area); // here %.2 means it will display only two digits after decimal point
 
     return 0;
 }
